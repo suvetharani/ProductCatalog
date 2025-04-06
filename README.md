@@ -1,17 +1,37 @@
 # 🛍️ Product Catalog
 
-A modern, responsive product catalog web app built with **React** and **Tailwind CSS**. This application allows users to view a list of products along with their descriptions and also provides functionality to add new products dynamically.
+A responsive product catalog web application built using **React** and **Tailwind CSS**. This app allows users to view a list of products with details and also add new products dynamically through a user-friendly interface.
 
-## 🔧 Features
-- 🖼️ View product list with name, image, and description
-- ➕ Add new products with details
-- ⚡ Fast and responsive UI using Tailwind CSS
-- 🧼 Clean component-based React structure
+---
 
-## 📦 Tech Stack
-- React
-- Tailwind CSS
-- JavaScript (ES6)
+## 🚀 Features
 
-## 🚀 Purpose
-This project is designed to demonstrate dynamic content rendering and state management in React while offering a sleek, responsive UI for catalog-based apps.
+- 🖼️ View a list of products with name, price, and description
+- ➕ Add new products through a simple form
+- ⚡ Fast, responsive UI with Tailwind CSS
+- 🔁 Dynamic state updates with React Hooks
+- 🎯 Clean component-based structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React
+- **Styling**: Tailwind CSS
+- **Language**: JavaScript (ES6)
+
+---
+
+## 📦 Installation
+
+Clone and run the project locally:
+
+```bash
+git clone https://github.com/suvetharani/ProductCatalog.git
+cd ProductCatalog
+npm install
+npm start
+```
+
+🙋‍♀️ Author
+Developed by Suvetharani
